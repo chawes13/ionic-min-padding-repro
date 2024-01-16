@@ -1320,29 +1320,29 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-2.0.2.tgz#d9fae00a2d5cb40f92cfe64b47ad749fbc38f917"
   integrity sha512-6EwiSjwWYP7pTckG6I5eyFANjPhmPjUX9JRLUSfNPC7FX7zK9gyZAfUEaECL6ALTpGX5AjnBq3C9XmVWPitNpw==
 
-"@ionic/core@7.6.4":
-  version "7.6.4"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-7.6.4.tgz#b1ce9f8fa8565105c36b4d7496a5a7992cf9f6cf"
-  integrity sha512-9BGksEmvA/upb5Oup+joOam7y4pSBGCxYekWnTx8PiYur04ZYjGSZ0Vz3dQRyqj7rF+MwUV9iUGd3qz/bslkSw==
+"@ionic/core@7.5.8":
+  version "7.5.8"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-7.5.8.tgz#06c04a0a3db3633191354d21c17196c1904cf656"
+  integrity sha512-AKqI9iUyub9tQa68CbF/h6B3gCydQpiDDres24Rs5RlXw01MSLcze88XBP4e1zaQKXMb+v/P8T5/3u7g/huK8w==
   dependencies:
-    "@stencil/core" "^4.9.1"
-    ionicons "^7.2.2"
+    "@stencil/core" "^4.8.1"
+    ionicons "^7.2.1"
     tslib "^2.1.0"
 
-"@ionic/react-router@^7.0.0":
-  version "7.6.4"
-  resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-7.6.4.tgz#a275b8927abe6791f3bd9f81eb491acb4a37c98c"
-  integrity sha512-lAT9P5aHK4YYsDMYru83pRlMearolLPudJqFvJRDi9aOT8LhJw7MsB8bczt62A5s5ZZ92ll18OhoXOJvRQGqYA==
+"@ionic/react-router@~7.5.0":
+  version "7.5.8"
+  resolved "https://registry.yarnpkg.com/@ionic/react-router/-/react-router-7.5.8.tgz#83886c8989c6f2f93c6b547882f90ea788baf404"
+  integrity sha512-7AMDmfvvSlnT9ApXSbLxDQ9bAMmLYWfdF+9ZlL3b49+EecYsLxbMg2/QYJEj4YkNi6pXjOYyp6xNIO+X0qpsZA==
   dependencies:
-    "@ionic/react" "7.6.4"
+    "@ionic/react" "7.5.8"
     tslib "*"
 
-"@ionic/react@7.6.4", "@ionic/react@^7.0.0":
-  version "7.6.4"
-  resolved "https://registry.yarnpkg.com/@ionic/react/-/react-7.6.4.tgz#332c668d4b0466dc3f90122d00834637e075f987"
-  integrity sha512-xcYUChlPhP9dIl6mKsnzQjqCTdz+K5g+DXkd4EB+4wGtdKb9is2vnV6Hug/hgGsaV3+at2MNUFc5kwAdck+AcA==
+"@ionic/react@7.5.8", "@ionic/react@~7.5.0":
+  version "7.5.8"
+  resolved "https://registry.yarnpkg.com/@ionic/react/-/react-7.5.8.tgz#3988042fc817d19d8b21fb549e7985f591d1f495"
+  integrity sha512-6uJiehCavcOtMo4DqlgPCeaA63yC1HLXPHZiTsx2Cf+OLlYma9nOwOaQEXILcCrgzXHrcu6dWuzDe+9l4Q425g==
   dependencies:
-    "@ionic/core" "7.6.4"
+    "@ionic/core" "7.5.8"
     ionicons "^7.0.0"
     tslib "*"
 
@@ -1780,7 +1780,7 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@stencil/core@^4.0.3", "@stencil/core@^4.9.1":
+"@stencil/core@^4.0.3", "@stencil/core@^4.8.1":
   version "4.10.0"
   resolved "https://registry.yarnpkg.com/@stencil/core/-/core-4.10.0.tgz#cafdaee8e1120912b9ab028d7b76fbdcc5ba2af4"
   integrity sha512-7lDTPY1IxXN2/C+wQPHt3e/dYgY4YgelA8MxOsU3ZftXtpzWad/QNWhSAtKisJMrSjQh41jMDOgD0yLBwV6E7w==
@@ -5367,7 +5367,7 @@ internal-slot@^1.0.4, internal-slot@^1.0.5:
     hasown "^2.0.0"
     side-channel "^1.0.4"
 
-ionicons@^7.0.0, ionicons@^7.2.2:
+ionicons@^7.0.0, ionicons@^7.2.1:
   version "7.2.2"
   resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-7.2.2.tgz#b28140bd8e81ec4eea2d1ee78a5e7cfca9f14d3b"
   integrity sha512-I3iYIfc9Q9FRifWyFSwTAvbEABWlWY32i0sAVDDPGYnaIZVugkLCZFbEcrphW6ixVPg8tt1oLwalo/JJwbEqnA==

@@ -1,0 +1,17 @@
+.social-media-links {
+  display: flex;
+  padding-left: 18px;
+  margin-top: 12px;
+}
+
+.social-media-links ion-item {
+  --inner-padding-start: 8px;
+  --inner-padding-end: 8px;
+  --padding-start: 0;
+  --padding-end: 0;
+  /* --inner-min-width: 1rem; */
+}
+
+ion-item ion-icon {
+  color: var(--ion-color-base);
+}
